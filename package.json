@@ -1,0 +1,17 @@
+{
+    "name": "calc5D6",
+    "version": "0.1.1",
+    "main":"calc",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lakshmanlucky6/calculator.git"
+    },
+    "keywords": [
+      "calc",
+      "calc5D6","calculator"
+    ],
+    "dependencies": {},
+    "engines": {
+      "node": "*"
+    }
+  }
